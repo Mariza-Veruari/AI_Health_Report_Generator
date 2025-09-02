@@ -1,0 +1,9 @@
+# 🩺 AI Health Report Generator
+
+A Streamlit app that analyzes blood test CSV files using OpenAI's GPT models.
+
+## Setup
+1. Clone the repo
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
